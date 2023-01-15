@@ -3,11 +3,13 @@
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 🌱 I’m currently learning **CS50,DSA**
 
+- :) I’m interested in programming and problem solving.
+
 - 👯 I’m looking to collaborate on **web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ishan678-code/programs](https://github.com/Ishan678-code/programs)
 
-- 📫 How to reach me **awasthishrey11@gmail.com**
+- 📫 How to reach me ** **
 
 - ⚡ Fun fact **I love to play games.**
 
